@@ -28,7 +28,7 @@
         7) Ajax로 댓글,직원정보 구현 
 
 ## 기술 스택
-JAVA , JSP, MySql
+JAVA , JSP, MySql, AWS
 
 
 ## 서비스 소개 (화면)

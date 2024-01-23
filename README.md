@@ -10,7 +10,7 @@
 <b>그룹 웨어 서비스(개인 프로젝트)</b>
 
 ## 기술 스택
-JAVA , JSP, MySql, AWS
+SPRING, JAVA , JSP, MYSQL, AWS
 
 
  ## 주요기능 

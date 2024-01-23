@@ -14,7 +14,7 @@
          2) 직원정보(검색) - employee Table 
          3) 자유게시판(등록, 수정, 삭제, 검색) - board Table
          4) 댓글(등록, 삭제) - comment Table
-         5) 이벤트및소식 - event Table
+         5) 이벤트 및 소식 - event Table
         
         <br>
         

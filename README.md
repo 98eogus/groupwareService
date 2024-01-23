@@ -18,7 +18,7 @@ Spring web mvc 구조, JAVA , JSP, MySql
 ![image](https://github.com/98eogus/groupwareService/assets/129102082/dc038641-4e9b-4464-a7f0-42ff6ca3d017)
 
 직원 정보
-![image](https://github.com/98eogus/groupwareService/assets/129102082/55b51786-18ac-4836-a520-9d6375aeb4c2
+![image](https://github.com/98eogus/groupwareService/assets/129102082/55b51786-18ac-4836-a520-9d6375aeb4c2)
 
 교육 및 훈련
 ![image](https://github.com/98eogus/groupwareService/assets/129102082/e3632d0a-3dc7-44bb-89b8-f28f1581760c)

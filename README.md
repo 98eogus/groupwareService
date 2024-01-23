@@ -16,7 +16,6 @@
          4) 댓글(등록, 삭제) - comment Table
          5) 이벤트 및 소식 - event Table
         
-        <br>
         
 ## 주요 기술 및 환경
         1) Spring WEB MVC구조 

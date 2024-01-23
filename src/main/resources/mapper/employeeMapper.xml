@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.portfolio.project.dao.employeeMapper">
+
+    <select id="selectAll" resultType="EmployeeDto">
+        select * from employee
+    </select>
+
+    <select id="search" parameterType="String" resultType="EmployeeDto">
+    <![CDATA[
+        select * from employee where name LIKE concat('%' , #{name}, '%')
+        ]]>
+</select>
+
+
+</mapper>

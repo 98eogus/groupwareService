@@ -30,4 +30,5 @@
 
 
 ## 서비스 소개 (화면)
+![image](https://github.com/98eogus/groupwareService/assets/129102082/dc038641-4e9b-4464-a7f0-42ff6ca3d017)
 

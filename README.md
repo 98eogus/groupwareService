@@ -9,6 +9,24 @@
 
 <b>그룹 웨어 서비스</b>
 
+ ## 주요기능 
+        &nbsp;&nbsp; 1) 회원관리(로그인 / 로그아웃) - user_info Table <br>
+        &nbsp;&nbsp; 2) 직원정보(검색) - employee Table <br>
+        &nbsp;&nbsp; 3) 자유게시판(등록, 수정, 삭제, 검색) - board Table<br>
+        &nbsp;&nbsp; 4) 댓글(등록, 삭제) - comment Table<br>
+        &nbsp;&nbsp;
+        <br>
+        
+## 주요 기술 및 환경
+        &nbsp;&nbsp;1) Spring WEB MVC구조 <br>
+        &nbsp;&nbsp;2) Spring Data Mybatis <br>
+        &nbsp;&nbsp;3) Spring AOP - Session유무 체크 <br>
+        &nbsp;&nbsp;&nbsp;&nbsp; : Board(글쓰기)에 대한 접근은 인증된 사용자만 가능<br>
+        &nbsp;&nbsp;4) Action Tag include - Layout Template <br>
+        &nbsp;&nbsp;5) mysql <br>
+        &nbsp;&nbsp;6) 게시판 paging처리 <br>
+        &nbsp;&nbsp;7) Ajax로 댓글,직원정보 구현 <br>
+
 ## 기술 스택
 Spring web mvc 구조, JAVA , JSP, MySql
 

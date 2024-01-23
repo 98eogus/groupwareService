@@ -9,6 +9,10 @@
 
 <b>그룹 웨어 서비스(개인 프로젝트)</b>
 
+## 기술 스택
+JAVA , JSP, MySql, AWS
+
+
  ## 주요기능 
          1) 회원관리(로그인 / 로그아웃) - user_info Table 
          2) 직원정보(검색) - employee Table 
@@ -26,9 +30,6 @@
         5) mysql 
         6) 게시판 paging처리 
         7) Ajax로 댓글,직원정보 구현 
-
-## 기술 스택
-JAVA , JSP, MySql, AWS
 
 
 ## 서비스 소개 (화면)

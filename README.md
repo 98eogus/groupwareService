@@ -14,22 +14,22 @@ SPRING, JAVA , JSP, MYSQL, AWS
 
 
  ## 주요기능 
-         1) 회원관리(로그인 / 로그아웃) - user_info Table 
-         2) 직원정보(검색) - employee Table 
-         3) 자유게시판(등록, 수정, 삭제, 검색) - board Table
-         4) 댓글(등록, 삭제) - comment Table
-         5) 이벤트 및 소식 - event Table
+         1) 회원관리(로그인 / 로그아웃 / 회원가입) - user_info Table
+         2) 자유게시판(등록, 수정, 삭제, 검색) - board Table
+         3) 댓글(등록, 삭제) - comment Table
+         4) 배너 - banner Table
+         
         
         
-## 주요 기술 및 환경
-        1) Spring WEB MVC구조 
-        2) Spring Data Mybatis 
-        3) Spring AOP - Session유무 체크 
-         : Board(글쓰기)에 대한 접근은 인증된 사용자만 가능
-        4) Action Tag include - Layout Template 
-        5) mysql 
-        6) 게시판 paging처리 
-        7) Ajax로 댓글,직원정보 구현 
+## 주요 기술 및 환경 
+        1) Spring WEB MVC구조
+        2) Spring Data Mybatis
+        3) Spring AOP - Session유무 체크
+           : Board에 대한 접근은 인증된 사용자만 가능
+        4) Action Tag include - Layout Template
+        5) mysql
+        6) 게시판 paging처리
+        7) Ajax로 댓글, 배너구현
 
 
 ## 서비스 소개 (화면)

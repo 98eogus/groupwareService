@@ -7,7 +7,7 @@
 
 ## 서비스 개요
 
-<b>그룹 웨어 서비스(개인 프로젝트)</b>
+<b>게시판(개인 프로젝트)</b>
 
 ## 기술 스택
 SPRING, JAVA , JSP, MYSQL, AWS
@@ -35,15 +35,6 @@ SPRING, JAVA , JSP, MYSQL, AWS
 ## 서비스 소개 (화면)
 <b>전체 개요</b>
 ![image](https://github.com/98eogus/groupwareService/assets/129102082/dc038641-4e9b-4464-a7f0-42ff6ca3d017)
-
-<b>직원 정보</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/55b51786-18ac-4836-a520-9d6375aeb4c2)
-
-<b>교육 및 훈련</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/e3632d0a-3dc7-44bb-89b8-f28f1581760c)
-
-<b>이벤트 및 소식</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/a1a90464-e11a-492d-9b0e-23d1530e58d6)
 
 <b>게시판</b>
 ![image](https://github.com/98eogus/groupwareService/assets/129102082/cc03e612-194f-4806-b802-5d60f6095991)

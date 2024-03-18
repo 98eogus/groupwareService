@@ -44,7 +44,12 @@ SPRING, JAVA , JSP, MYSQL, AWS
 
 
 <b>로그인</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/0062aea9-7510-4b8a-8981-057bcb53e6cc)
+![image](https://github.com/98eogus/project/assets/129102082/e782cd38-551b-4e4c-beec-54dfe918996e)
+
+<b>회원가입</b>
+![image](https://github.com/98eogus/project/assets/129102082/6163fd9f-525d-4ea4-91a4-bfe93ccf4744)
+
+
 
 
 

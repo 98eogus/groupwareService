@@ -34,11 +34,14 @@ SPRING, JAVA , JSP, MYSQL, AWS
 
 ## 서비스 소개 (화면)
 <b>전체 개요</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/dc038641-4e9b-4464-a7f0-42ff6ca3d017)
+![image](https://github.com/98eogus/project/assets/129102082/c1936fa4-aa7e-4f9a-8548-ffab44889ac1)
+
 
 <b>게시판</b>
-![image](https://github.com/98eogus/groupwareService/assets/129102082/cc03e612-194f-4806-b802-5d60f6095991)
-![image](https://github.com/98eogus/groupwareService/assets/129102082/3a9b163d-b0fb-46c0-864a-9256ccf98643)
+![image](https://github.com/98eogus/project/assets/129102082/40485edb-1c3f-4c5d-937f-075056c3e029)
+![image](https://github.com/98eogus/project/assets/129102082/b94edfae-d61b-4a98-81d6-52f39bdacfdc)
+
+
 
 <b>로그인</b>
 ![image](https://github.com/98eogus/groupwareService/assets/129102082/0062aea9-7510-4b8a-8981-057bcb53e6cc)
